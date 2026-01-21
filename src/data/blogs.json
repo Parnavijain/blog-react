@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Web Development in 2024",
+    "category": "Technology",
+    "content": "React, AI, Web Performance and modern frameworks shaping the future.",
+    "author": "John Smith",
+    "read": 5,
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475"
+  },
+  {
+    "id": 2,
+    "title": "Mastering UI/UX Design",
+    "category": "Design",
+    "content": "Principles of user-centered design and accessibility.",
+    "author": "Sarah Johnson",
+    "read": 8,
+    "image": "https://images.unsplash.com/photo-1559028012-481c04fa702d"
+  },
+  {
+    "id": 3,
+    "title": "Building a Startup",
+    "category": "Business",
+    "content": "Funding, scaling, and hiring strategies for startups.",
+    "author": "Michael Chen",
+    "read": 6,
+    "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df"
+  },
+  {
+    "id": 4,
+    "title": "Mindfulness for Daily Life",
+    "category": "Lifestyle",
+    "content": "Simple practices to improve mental health.",
+    "author": "Lisa Anderson",
+    "read": 7,
+    "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773"
+  },
+  {
+    "id": 5,
+    "title": "Top Places to Visit in Asia",
+    "category": "Travel",
+    "content": "Hidden gems and travel experiences.",
+    "author": "Emma Wilson",
+    "read": 10,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+  },
+  {
+    "id": 6,
+    "title": "The Art of French Pastry",
+    "category": "Food",
+    "content": "Secrets behind perfect French desserts.",
+    "author": "David Martinez",
+    "read": 5,
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836"
+  },
+  {
+    "id": 7,
+    "title": "AI and Machine Learning Trends",
+    "category": "Technology",
+    "content": "How AI is transforming industries.",
+    "author": "James Brown",
+    "read": 4,
+    "image": "https://images.unsplash.com/photo-1535378620166-273708d44e4c"
+  },
+  {
+    "id": 8,
+    "title": "Minimalist Home Design",
+    "category": "Design",
+    "content": "Clean spaces and clutter-free living.",
+    "author": "Sophie Davis",
+    "read": 5,
+    "image": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4"
+  }
+]

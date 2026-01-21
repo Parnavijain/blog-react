@@ -1,0 +1,1 @@
+import {Link} from 'react-router-dom';export default()=> (<nav className='p-4 flex justify-between border-b'><b>BlogHub</b><Link to='/add'>+ Add Blog</Link></nav>);
