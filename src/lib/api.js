@@ -1,1 +1,6 @@
-import blogs from '../data/blogs.json';let DB=[...blogs];export const getBlogs=async()=>DB;export const addBlog=async(b)=>{DB.push({...b,id:Date.now()});};
+import blogs from "../data/blogs.json";
+let DB = [...blogs];
+export const getBlogs = async () => DB;
+export const addBlog = async (b) => {
+  DB.push({ ...b, id: Date.now() });
+};
